@@ -1,0 +1,10 @@
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\obj\x86\Debug\Final.csprojAssemblyReference.cache
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\obj\x86\Debug\Final.csproj.CoreCompileInputs.cache
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\bin\x86\Debug\Final.exe.config
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\bin\x86\Debug\Final.exe
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\bin\x86\Debug\Final.pdb
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\bin\x86\Debug\FK_CLI.dll
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\bin\x86\Debug\FK_FormHelper.dll
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\obj\x86\Debug\Final.csproj.CopyComplete
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\obj\x86\Debug\Final.exe
+G:\TUT\三年前期\メディア専門演習II（リアルタイム3DCGプログラミング）\Final\Final\obj\x86\Debug\Final.pdb
